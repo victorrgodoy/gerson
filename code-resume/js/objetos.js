@@ -59,7 +59,7 @@ const sony = {
     nome: 'Sony',
     telefone: '11 11111-1111',
     set colocarNome(nome) {
-        this.nome = nome;
+        this.nome.toUpperCase = nome;
     }
 };
 

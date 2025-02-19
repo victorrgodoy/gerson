@@ -1,0 +1,1 @@
+var victor == 10;
